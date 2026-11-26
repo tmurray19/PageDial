@@ -1,0 +1,10 @@
+{
+    "id": "com_tmurray19_PageDial",
+    "name": "Page Dial",
+    "version": "1.0.0",
+    "author": "You",
+    "github": "https://github.com/tmurray19/page-dial",
+    "description": "Turn a Stream Deck+ dial to cycle through pages",
+    "app-version": "1.5.0-beta.16",
+    "tags": ["pages", "dial"]
+}
