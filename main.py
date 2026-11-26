@@ -71,7 +71,7 @@ class PageDialPlugin(PluginBase):
 
         self.register(
             plugin_name="Page Dial",
-            github_repo="https://github.com/you/page-dial",
+            github_repo="https://github.com/tmurray19/PageDial",
             plugin_version="1.0.0",
             app_version="1.5.0-beta.16",
         )
